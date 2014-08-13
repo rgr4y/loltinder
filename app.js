@@ -3,7 +3,7 @@
   * 1. Install node.js
   * 2. Open Terminal or Command Prompt
   * 3. cd to directory where app.js is
-  * 4. Run 'npm install underscore tinderbot'
+  * 4. Run 'npm install'
   * 5. GET FACEBOOK NUMERIC ID FROM: http://findmyfacebookid.com/
   * 6. GET ACCESS TOKEN FROM THE FOLLOWING URL. IT REDIRECTS TO ANOTHER PAGE QUICKLY, SO GRAB THE URL UP TOP BEFORE IT CHANGES QUICKLY.
   *
