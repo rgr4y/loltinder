@@ -1,0 +1,12 @@
+{
+  "name": "loltinder",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "underscore": "~1.6.0",
+    "tinderbot": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
