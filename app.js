@@ -59,12 +59,15 @@ bot.client.authorize(bot.access_token, bot.facebook_id, function(){
             console.log('MATCHED!');
             console.log(user);
           }
-        //   if (data.matched) {
-        //     bot.client.sendMessage(
-        //       id,
-        //       "You're gorgeous. Let's adventure"
-        //     );
-        //   }
+
+    // MESSAGE ALL THE MATCHES       
+          if (data.matched) {
+            bot.client.sendMessage(
+              id,
+              "Looking to explore the world? Same. Let's adventure"
+            );
+          }
+
         });
       });
     });
